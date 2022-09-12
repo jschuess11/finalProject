@@ -1,5 +1,5 @@
 import React from "react";
-import '../styles/brewsBars.css';
+import '../styles/brewsbars.css';
 import rhinegeistPic from "../assets/rhinegeistPic.jpg";
 import madTreePic from "../assets/madTreePic.jpeg";
 import ghostBabyPic from "../assets/ghostBabyPic.jpg";

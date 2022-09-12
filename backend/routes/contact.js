@@ -1,5 +1,5 @@
 const router = require("express").Router();
-let Contact = require("../models/contactSchema");
+let Contact = require("../models/contactschema");
 
 router.route("/add").post((req, res) => {
   const name = req.body.name;
