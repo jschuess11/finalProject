@@ -6,7 +6,7 @@ import About from "./components/About";
 import Home from "./components/Home";
 import Contact from "./components/Contact";
 import Attractions from "./pages/attractions";
-// import Brewsbars from "./pages/brewsbars";
+import Brewsbars from "./pages/Brewsbars";
 import Food from "./pages/food";
 import Entertainment from "./pages/entertainment";
 import Arts from "./pages/artsMuseums"
@@ -20,7 +20,7 @@ export default class App extends Component {
           <Route exact path="/" component={Home} />
           <Route path="/about" component={About} />
           <Route path="/attractions" component={Attractions} />
-          {/* <Route path="/brewsBars" component={Brewsbars} /> */}
+          <Route path="/brewsBars" component={Brewsbars} />
           <Route path="/food" component={Food} />
           <Route path="/entertainment" component={Entertainment} />
           <Route path="/artsMuseums" component={Arts} />
