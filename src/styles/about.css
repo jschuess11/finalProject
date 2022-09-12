@@ -1,0 +1,66 @@
+.container {
+    border-width: 1rem;
+    border-color: black;
+}
+
+.name {
+    color: #C6011f;
+}
+
+.description {
+    color: black;
+    margin: 20px;
+}
+
+a {
+    margin: 20px;
+}
+
+h2.name {
+    margin: 20px;
+}
+
+.rounded {
+    border-style: double;
+    border-radius: 50% !important;
+}
+
+.statement {
+    padding-top: 75px;
+    color: #C6011f
+}
+
+.Trivia {
+    margin-top: 150px;
+}
+
+.trivia-title {
+    font-size: 35px;
+    color: #C6011f;
+}
+
+.trivia-paragraph {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.trivia-list {
+    list-style-type: none;
+    margin-top: 10px;
+}
+
+.l1 {
+    margin-top: 5px;
+    color: #fff;
+    font-weight: 500;
+}
+
+.l2 {
+    margin-top: 5px;
+    color: #C6011f;
+    font-weight: 600;
+}
+
+.spacing {
+    margin-bottom: 20px;
+}

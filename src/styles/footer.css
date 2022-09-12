@@ -1,0 +1,40 @@
+.footer{
+    margin-top: 1rem;
+    position: relative;
+    background-color: #C6011f;
+    margin-top: 100vh;
+    left: 0;
+    right: 0;
+    color: #fff;
+}
+
+.outer{
+    width: 100%;
+    }
+
+    .one{
+    width: 50%;
+    Float: left;
+    display:inline;
+    background-color: #C6011f;
+    }
+    .two{
+    width: 50%;
+    Float: right;
+    display:inline;
+    background-color: #C6011f;
+    }
+
+.icons1 {
+    font-size: 35px
+}
+
+.icons2 {
+    font-size: 35px;
+    padding-left: 10px;
+}
+
+p {
+    padding: 0;
+    margin: 0;
+}

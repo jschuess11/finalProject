@@ -1,0 +1,28 @@
+img.homeimg {
+    border-style: solid;
+    border-radius: 2%;
+    overflow: auto;
+    width: auto;
+    height: 70vh;
+    margin-top: 60px;
+}
+
+.home {
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.landing-text {
+    color: #C6011F;
+    font-size: 65px;
+    text-shadow: 1px 1px black;
+    text-align: center;
+}
+
+.paragraph-text {
+    color: black;
+    font-size: 24px;
+}

@@ -1,0 +1,33 @@
+.food-banner{
+    margin-top: 80px;
+    color: #fff;
+}
+
+.foodHeader {
+    color: #C6011f;
+    margin-top: 10px;
+}
+
+.card-title {
+    margin-top: 50px;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.container-card {
+    width: 70%; 
+    height: auto;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.card-text {
+    font-weight: 600;
+}
+
+.card-img-top {
+    border-style: double;
+    border-radius: 50%;
+}
