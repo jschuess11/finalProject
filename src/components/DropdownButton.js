@@ -10,7 +10,7 @@ function Button() {
       title="Attractions"
       className="btn"
     >
-      <Dropdown.Item><Link to="drinkyplaces">Breweries</Link></Dropdown.Item>
+      <Dropdown.Item><Link to="brewsbars">Breweries</Link></Dropdown.Item>
       <Dropdown.Item><Link to="food">Food</Link></Dropdown.Item>
       <Dropdown.Item><Link to="entertainment">Entertainment</Link></Dropdown.Item>
       <Dropdown.Item><Link to="artsmuseums">Arts & Museums</Link></Dropdown.Item>
