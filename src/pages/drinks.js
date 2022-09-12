@@ -1,12 +1,12 @@
 import React from "react";
-import '../styles/brewsbars.css';
+import '../styles/drinks.css';
 import rhinegeistPic from "../assets/rhinegeistPic.jpg";
 import madTreePic from "../assets/madTreePic.jpeg";
 import ghostBabyPic from "../assets/ghostBabyPic.jpg";
 import wiseguyPic from "../assets/wiseguyPic.jpg";
 import braxtonBrewPic from "../assets/braxtonBrewPic.jpeg";
 
-export const Brewsbars = () => {
+export const Drinks = () => {
     return (
         <div>
             <div className="home">
@@ -88,4 +88,4 @@ export const Brewsbars = () => {
     )
 }
 
-export default Brewsbars
+export default Drinks
