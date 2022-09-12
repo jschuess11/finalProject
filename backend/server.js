@@ -23,8 +23,8 @@ connection.once('open', () => {
     console.log('MongoDB database connection established successfully');
 });
 
-const attractionRouter = require('./ruts/spots');
-const contactRouter = require('./ruts/contct')
+const attractionRouter = require('./routes/locations');
+const contactRouter = require('./routes/contact')
 app.use('/attractions', attractionRouter);
 app.use('/contact', contactRouter);
 app.use(express.static(path.join(__dirname, "../build")))
