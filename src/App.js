@@ -6,7 +6,7 @@ import About from "./components/About";
 import Home from "./components/Home";
 import Contact from "./components/Contact";
 import Attractions from "./pages/attractions";
-import Brewsbars from "./pages/brewsbars";
+// import Brewsbars from "./pages/brewsbars";
 import Food from "./pages/food";
 import Entertainment from "./pages/entertainment";
 import Arts from "./pages/artsMuseums"
