@@ -4,6 +4,10 @@
     background-color: darkgray;
 }
 
+a {
+  margin: 0;
+}
+
 
 .navbar-brand:hover {
 color: #C6011F;
