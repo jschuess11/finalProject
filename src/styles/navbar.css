@@ -19,6 +19,7 @@ color: #C6011F;
 
 .nav-link {
     color: black;
+    padding: 0;
 }
 .navbar-brand {
     color: black;
@@ -193,6 +194,7 @@ color: #C6011F;
 
 a { 
   color: black;
+  margin: 0px;
 }
 a:hover { 
   color: black;
